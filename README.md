@@ -1,2 +1,4 @@
 # ToastBase
-Base setup for web stuff
+Basic web-development boilerplate
+
+includes font awesome and laravel mix for a prettier interface to webpack
